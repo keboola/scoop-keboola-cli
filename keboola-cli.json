@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://keboola-as-code-dist.s3.amazonaws.com/zip/keboola-cli_0.0.1_windows_amd64.zip",
+            "bin": [
+                "kbc.exe"
+            ],
+            "hash": "e3bdae096d87a37baad3ba9dd30e4abb138e59b5657f0f101d5705b1427b5ee8"
+        }
+    },
+    "homepage": "https://www.keboola.com/product/cli",
+    "license": "MIT",
+    "description": "Operate your cloud data pipeline from the command line"
+}

@@ -1,3 +1,6 @@
+# Scoop Keboola CLI
+
+Config file for Scoop - command-line installer for Windows.
 
 ## License
 

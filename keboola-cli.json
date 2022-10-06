@@ -1,12 +1,12 @@
 {
-    "version": "2.8.1",
+    "version": "2.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://keboola-as-code-dist.s3.amazonaws.com/zip/keboola-cli_2.8.1_windows_amd64.zip",
+            "url": "https://keboola-as-code-dist.s3.amazonaws.com/zip/keboola-cli_2.8.2_windows_amd64.zip",
             "bin": [
                 "kbc.exe"
             ],
-            "hash": "6e1c5149d3e42e1c1750388e8fdae524641b80c89c17ca02336e9cf693a2698d"
+            "hash": "e2e920c6ec82d96721f0159fa4c5a173e0c78c5e12053fa7e28e3f9b8d5b7748"
         }
     },
     "homepage": "https://www.keboola.com/product/cli",
